@@ -1,0 +1,11 @@
+E:\Workfolder\kirin_noa\kirin_noa\bin\Release\kirin_noa.exe.config
+E:\Workfolder\kirin_noa\kirin_noa\bin\Release\kirin_noa.exe
+E:\Workfolder\kirin_noa\kirin_noa\bin\Release\kirin_noa.pdb
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.初期設定.resources
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.inputOrder.resources
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.Properties.Resources.resources
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.csproj.GenerateResource.cache
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.csproj.CoreCompileInputs.cache
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.exe
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.pdb
+E:\Workfolder\kirin_noa\kirin_noa\obj\Release\kirin_noa.csprojAssemblyReference.cache
